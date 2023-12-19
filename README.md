@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kirill</a> </h1>
 <h3 align="center">NUST MISIS STUDENT AND BEGINNER JAVA DEV</h3>
 
-- 🌱 I’m currently learning **Spring, Docker**
+- 🌱 I’m currently learning **Kafka, RabbitMQ, Kubernates, ZeeBee**
 
 - 📫 How to reach me **kirikura.w@yandex.ru**
 
